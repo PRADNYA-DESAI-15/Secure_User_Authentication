@@ -26,8 +26,11 @@ python app.py
 
 📬 API Endpoints
 Method	Endpoint	Description
+
 POST	/register	Register a new user
+
 POST	/login	Authenticate user
+
 GET	/protected	Access secured route
 
 ## 🛠️ Technology Stack  
