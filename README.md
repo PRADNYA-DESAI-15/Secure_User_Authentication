@@ -13,11 +13,15 @@ This is a secure user authentication system built using **Flask** and **MySQL**.
 
 ## 🛠️ Installation & Setup
 
-### 1️⃣ Clone the Repository  
+### Clone the Repository  
 git clone https://github.com/PRADNYA-DESAI-15/Secure_User_Authentication.git
+
 cd Secure_User_Authentication
+
 python -m venv venv
+
 venv\Scripts\activate
+
 python app.py
 
 📬 API Endpoints
